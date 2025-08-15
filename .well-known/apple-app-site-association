@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "XXXXXXXXX_teamId_XXXXXXXXXXX.com.premedis",
+        "paths": [
+          "/auth/v1/verify",
+          "/auth/*"
+        ]
+      }
+    ]
+  }
+}

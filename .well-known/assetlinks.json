@@ -1,0 +1,11 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.premedis",
+      "sha256_cert_fingerprints":
+      [
+        "7F:CC:4D:42:D0:95:27:49:46:0D:DB:E4:8D:AF:CD:DC:D7:1E:49:C6:74:FB:8E:3D:19:89:8E:3B:9C:D5:DE:0C"
+      ]
+    }
+  }]
